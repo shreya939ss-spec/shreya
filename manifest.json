@@ -1,0 +1,33 @@
+{
+  "name": "NARAD — नारद AI Intelligence",
+  "short_name": "NARAD",
+  "description": "India's Unified AI Intelligence Platform for Fraud Detection and Public Safety",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#050B18",
+  "theme_color": "#050B18",
+  "scope": "/",
+  "categories": ["utilities", "productivity", "news"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
